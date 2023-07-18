@@ -57,6 +57,31 @@ var config = {
             ]
         },
         {
+            id: 'change-over-time-variable',
+            alignment: 'right',
+            hidden: false,
+            title: 'change over time (variable)',
+            image: './path/to/image/source.png',
+            description: 'Copy these sections to add to your story.',
+            location: {
+                center: [-79, 0],
+                zoom: 5,
+                pitch: 0,
+                bearing: -90
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            mapInteractive: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'countries-fill',
+                //     opacity: 0
+                // }
+            ],
+            onChapterExit: []
+        },
+        {
             id: 'other-identifier',
             alignment: 'right',
             hidden: false,
