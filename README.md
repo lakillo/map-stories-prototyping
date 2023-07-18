@@ -1,3 +1,10 @@
+# map stories prototyping
+
+# attribution
+This repo is based on https://github.com/digidem/maplibre-storymap/tree/main.
+
+---
+
 # Interactive Storytelling with MapLibre
 Some stories are best told with a map. Data journalists covering changing conditions in a population's demographics, the environment, an international conflict, or telling a simple travel story frequently provide geographic context in their graphics.
 
